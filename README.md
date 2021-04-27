@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Technicalhassanali
-- 👀 I’m interested in Webd Devolpment.
+- 👀 I’m interested in Web Devolpment.
 - 🌱 I’m currently learning Javascript,PHP,Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
